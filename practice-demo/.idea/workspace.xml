@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2587309-6717-4aa0-8935-5111b8c0c3aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7e9T6XfT8JsIhVnoO7ApG1byo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PracticeDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiyu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huiyu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.huiyu.demo.PracticeDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PracticeDemoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2587309-6717-4aa0-8935-5111b8c0c3aa" name="Default Changelist" comment="" />
+      <created>1591780406626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591780406626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591781257386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591781257386" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1591782686672">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686672" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043359" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1591782686670">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686670" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043356" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1591782686669">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686669" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043354" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1591782686671">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686671" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043358" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1591782686676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686676" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043363" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1591782686674">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686674" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043361" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1591782686673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686673" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043360" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1591782686675">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686675" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043362" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1591856713718">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1591856713718" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591856777493">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591854683102" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591856777493" />
+  </component>
+</project>
